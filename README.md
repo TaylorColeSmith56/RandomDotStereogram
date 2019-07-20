@@ -1,1 +1,1 @@
-# RandomDotStereogrm
+# RandomDotStereogram
